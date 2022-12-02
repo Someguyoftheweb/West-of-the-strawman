@@ -1,0 +1,1521 @@
+﻿Log file open, 11/30/22 18:14:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: StandingTextBoxTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264943
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/Fortnite- Ech/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.30-18.14.20:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:320][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:349][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.30-18.14.20:349][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.30-18.14.20:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.30-18.14.20:351][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.30-18.14.20:351][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.30-18.14.20:351][  0]LogHAL: Display: Platform has ~ 16 GB [17110925312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.30-18.14.20:351][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.30-18.14.20:351][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.30-18.14.20:351][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.30-18.14.20:352][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.30-18.14.20:353][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.30-18.14.20:353][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.30-18.14.20:353][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.30-18.14.20:353][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Engine.ini]
+[2022.11.30-18.14.20:353][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Config/Windows/Editor.ini]
+[2022.11.30-18.14.20:353][  0]LogInit: Computer: TCC-BUILD050418
+[2022.11.30-18.14.20:353][  0]LogInit: User: Zak
+[2022.11.30-18.14.20:353][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.30-18.14.20:353][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.30-18.14.20:353][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.30-18.14.20:353][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.30-18.14.20:353][  0]LogMemory: Process Physical Memory: 138.77 MB used, 138.77 MB peak
+[2022.11.30-18.14.20:353][  0]LogMemory: Process Virtual Memory: 110.20 MB used, 110.20 MB peak
+[2022.11.30-18.14.20:353][  0]LogMemory: Physical Memory: 7340.09 MB used,  8978.16 MB free, 16318.25 MB total
+[2022.11.30-18.14.20:353][  0]LogMemory: Virtual Memory: 134208696.00 MB used,  9027.91 MB free, 134217728.00 MB total
+[2022.11.30-18.14.20:361][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.30-18.14.20:415][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.30-18.14.20:416][  0]LogInit: Using OS detected language (en-GB).
+[2022.11.30-18.14.20:416][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.30-18.14.20:420][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.11.30-18.14.20:645][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.30-18.14.20:663][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.30-18.14.20:681][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.30-18.14.20:681][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.30-18.14.20:976][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2022.11.30-18.14.20:976][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.30-18.14.20:976][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.30-18.14.20:976][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.30-18.14.21:102][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.11.30-18.14.21:102][  0]LogD3D11RHI:       6052/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.11.30-18.14.21:105][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.30-18.14.21:105][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.30-18.14.21:105][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.30-18.14.21:113][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.30-18.14.21:113][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.30-18.14.21:113][  0]LogWindows: EnumDisplayDevices:
+[2022.11.30-18.14.21:113][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2022.11.30-18.14.21:113][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.11.30-18.14.21:113][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.11.30-18.14.21:114][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.11.30-18.14.21:114][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.30-18.14.21:114][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.11.30-18.14.21:114][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.30-18.14.21:114][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.11.30-18.14.21:114][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.11.30-18.14.21:185][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.30-18.14.21:185][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.30-18.14.21:185][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.30-18.14.21:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.30-18.14.21:211][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.30-18.14.21:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.30-18.14.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.30-18.14.21:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.30-18.14.21:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.30-18.14.21:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.30-18.14.21:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.30-18.14.21:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.30-18.14.21:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.30-18.14.21:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.30-18.14.21:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.30-18.14.21:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.30-18.14.21:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.30-18.14.21:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.30-18.14.21:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.30-18.14.21:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.30-18.14.21:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.30-18.14.21:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.30-18.14.21:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.30-18.14.21:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.30-18.14.21:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.30-18.14.21:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.30-18.14.21:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.30-18.14.21:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.30-18.14.21:842][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.30-18.14.21:852][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.30-18.14.21:931][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.30-18.14.21:931][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Intermediate/Shaders/WorkingDirectory/6520/).
+[2022.11.30-18.14.21:931][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zak/AppData/Local/Temp/UnrealShaderWorkingDir/25F4AAEA4FFAC251A87B80A3495B7802/'.
+[2022.11.30-18.14.21:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.30-18.14.21:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.30-18.14.22:866][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.30-18.14.22:922][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Zak/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.30-18.14.22:922][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zak/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.30-18.14.22:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.30-18.14.22:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.30-18.14.22:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.30-18.14.22:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.30-18.14.22:937][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.30-18.14.22:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.30-18.14.22:937][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.30-18.14.22:949][  0]LogDerivedDataCache: Speed tests for C:/Users/Zak/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.30-18.14.22:949][  0]LogDerivedDataCache: Display: Performance to C:/Users/Zak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=672.52MBs, RandomWriteSpeed=101.38MBs. Assigned SpeedClass 'Local'
+[2022.11.30-18.14.22:949][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.30-18.14.22:950][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.30-18.14.22:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.30-18.14.23:006][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.30-18.14.23:007][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.30-18.14.23:034][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.11.30-18.14.23:319][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.30-18.14.23:319][  0]LogInit: Active device profile: [0000022D2A1C7300][0000022D28DF90C0 49] Windows
+[2022.11.30-18.14.23:319][  0]LogInit: Profiles: [0000022D2A1C7300][0000022D28DF90C0 49] Windows, [0000022D2A185000][0000022D28E01240 49] WindowsNoEditor, [0000022D2A1C5100][0000022D28E053C0 49] WindowsServer, [0000022D2A186C00][0000022D28E09540 49] WindowsClient, [0000022D2A1C6D00][0000022D28DFD680 49] IOS, [0000022D2A185500][0000022D28E0D7C0 49] iPadAir, [0000022D2A1C5600][0000022D28E11900 49] iPadAir2, [0000022D2A14C900][0000022D28E1DBC0 49] IPadPro, [0000022D2A14CA00][0000022D28E19C00 49] iPadAir3, [0000022D2A1C6800][0000022D28E200C0 49] iPadAir4, [0000022D2A14F300][0000022D28E24240 49] iPadMini2, [0000022D2A1C5900][0000022D28E283C0 49] iPadMini3, [0000022D2A14E000][0000022D28E2C540 49] iPadMini4, [0000022D2A1C7700][0000022D28E306C0 49] iPadMini5, [0000022D2A185900][0000022D28E38980 49] iPhone6, [0000022D2A137F00][0000022D28E349C0 49] iPodTouch6, [0000022D2A187300][0000022D28E40C80 49] iPhone7, [0000022D2A186800][0000022D28E3CCC0 49] iPodTouch7, [0000022D2A135400][0000022D28E44E40 49] iPhone5S, [0000022D2A185200][0000022D28E48FC0 49] iPhone6Plus, [0000022D2A137E00][0000022D28E4D140 49] iPhone6S, [0000022D2A184500][0000022D28E512C0 49] iPhone6SPlus, [0000022D2A135900][0000022D28E55440 49] iPhone7Plus, [0000022D2A187000][0000022D28E595C0 49] iPhoneSE, [0000022D2A136900][0000022D28E15700 49] iPhone8, [0000022D2A186900][0000022D28E5D840 49] iPhone8Plus, [0000022D2A137500][0000022D28E61980 49] iPhoneX, [0000022D2A185D00][0000022D28E65AC0 49] iPhoneXS, [0000022D2A134E00][0000022D28E6DC40 49] iPhoneXSMax, [0000022D2A187100][0000022D28E70100 49] iPhoneXR, [0000022D2A137000][0000022D28E74280 49] iPhone11, [0000022D2A185100][0000022D28E78400 49] iPhone11Pro, [0000022D2A136100][0000022D28E7C580 49] iPhone11ProMax, [0000022D2A184200][0000022D28E80700 49] iPhoneSE2, [0000022D2A135F00][0000022D28E84880 49] iPhone12Mini, [0000022D2A187F00][0000022D28E88A00 49] iPhone12, [0000022D2A135700][0000022D28E8CB80 49] iPhone12Pro, [0000022D2A186D00][0000022D28E90D00 49] iPhone12ProMax, [0000022D2A135200][0000022D28E94E80 49] iPadPro105, [0000022D2A185400][0000022D28E99000 49] iPadPro129, [0000022D2A137C00][0000022D28E9D180 49] iPadPro97, [0000022D2A184900][0000022D28EA1300 49] iPadPro2_129, [0000022D2A136C00][0000022D28EA5480 49] iPad5, [0000022D2A186A00][0000022D28EA9600 49] iPad6, [0000022D2A134500][0000022D28E69740 49] iPad7, [0000022D2A185700][0000022D28EAD880 49] iPad8, [0000022D2A137200][0000022D28EB19C0 49] iPadPro11, [0000022D2A187900][0000022D28EB5B00 49] iPadPro2_11, [0000022D2A137600][0000022D28EBDC80 49] iPadPro3_129, [0000022D2A187400][0000022D28EC0140 49] iPadPro4_129, [0000022D2A137800][0000022D28EC42C0 49] AppleTV, [0000022D2A187800][0000022D28EC8440 49] AppleTV4K, [0000022D2A137100][0000022D28ECC5C0 49] TVOS, [0000022D2A186400][0000022D28ED0740 49] Mac, [0000022D2A135800][0000022D28ED48C0 49] MacClient, [0000022D2A184100][0000022D28EDCA40 49] MacNoEditor, [0000022D2A137700][0000022D29812BC0 49] MacServer, [0000022D2A184400][0000022D29816D40 49] Linux, [0000022D2A210E00][0000022D2981EEC0 49] LinuxAArch64, [0000022D2A1C6200][0000022D29823040 49] LinuxNoEditor, [0000022D2A211800][0000022D298271C0 49] LinuxAArch64NoEditor, [0000022D2A1C5200][0000022D2982B340 49] LinuxClient, [0000022D2A211400][0000022D298374C0 49] LinuxAArch64Client, [0000022D2A1C5000][0000022D2983B640 49] LinuxServer, [0000022D2A211300][0000022D2983F7C0 49] LinuxAArch64Server, [0000022D2A1C4700][0000022D28EB9900 49] Android, [0000022D2A211000][0000022D2984FA40 49] Android_Low, [0000022D2A1C4200][0000022D29853B80 49] Android_Mid, [0000022D2A210A00][0000022D2985BD00 49] Android_High, [0000022D2A1C4500][0000022D2985E1C0 49] Android_Default, [0000022D2A185A00][0000022D29862340 49] Android_Adreno4xx, [0000022D2A137400][0000022D298664C0 49] Android_Adreno5xx_Low, [0000022D2A185600][0000022D2986A640 49] Android_Adreno5xx, [0000022D2A137900][0000022D298867C0 49] Android_Adreno6xx, [0000022D2A184E00][0000022D2988A940 49] Android_Adreno6xx_Vulkan, [0000022D2A136D00][0000022D2988EAC0 49] Android_Mali_T6xx, [0000022D2A186700][0000022D29892C40 49] Android_Mali_T7xx, [0000022D2A135A00][0000022D29896DC0 49] Android_Mali_T8xx, [0000022D2A187600][0000022D298BAF40 49] Android_Mali_G71, [0000022D2A135C00][0000022D298BF0C0 49] Android_Mali_G72, [0000022D2A187D00][0000022D298C3240 49] Android_Mali_G72_Vulkan, [0000022D2A134F00][0000022D298C73C0 49] Android_Mali_G76, [0000022D2A184300][0000022D298CB540 49] Android_Mali_G76_Vulkan, [0000022D2A136500][0000022D298CF6C0 49] Android_Mali_G77, [0000022D2A187B00][0000022D298D3840 49] Android_Mali_G77_Vulkan, [0000022D2A136E00][0000022D29857980 49] Android_Vulkan_SM5, [0000022D2A184700][0000022D298D7AC0 49] Android_PowerVR_G6xxx, [0000022D2A137D00][0000022D298DBC00 49] Android_PowerVR_GT7xxx, [0000022D2A186E00][0000022D298E20C0 49] Android_PowerVR_GE8xxx, [0000022D2A134700][0000022D298E6240 49] Android_PowerVR_GM9xxx, [0000022D2A187700][0000022D298EA3C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000022D2A134C00][0000022D298EE540 49] Android_TegraK1, [0000022D2A185E00][0000022D298F26C0 49] Android_Unknown_Vulkan, [0000022D2A136700][0000022D298F6840 49] Lumin, [0000022D2A186300][0000022D298FA9C0 49] Lumin_Desktop, [0000022D2A137B00][0000022D298FEB40 49] HoloLens, 
+[2022.11.30-18.14.23:447][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.30-18.14.23:447][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.30-18.14.23:447][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.30-18.14.23:447][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.30-18.14.23:447][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.30-18.14.23:468][  0]LogNetVersion: StandingTextBoxTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4003112550)
+[2022.11.30-18.14.23:960][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.30-18.14.24:035][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.074261 seconds
+[2022.11.30-18.14.24:042][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.11.30-18.14.24:042][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.11.30-18.14.24:042][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.30-18.14.24:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.30-18.14.24:511][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.30-18.14.24:614][  0]SourceControl: Source control is disabled
+[2022.11.30-18.14.24:614][  0]SourceControl: Source control is disabled
+[2022.11.30-18.14.24:618][  0]SourceControl: Source control is disabled
+[2022.11.30-18.14.24:622][  0]SourceControl: Source control is disabled
+[2022.11.30-18.14.24:634][  0]SourceControl: Source control is disabled
+[2022.11.30-18.14.24:642][  0]LogUProjectInfo: Found projects:
+[2022.11.30-18.14.24:933][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.30-18.14.24:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.30-18.14.24:959][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.30-18.14.25:024][  0]LogCollectionManager: Loaded 0 collections in 0.001201 seconds
+[2022.11.30-18.14.25:053][  0]LogFileCache: Scanning file cache for directory 'Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Collections/' took 0.00s
+[2022.11.30-18.14.25:053][  0]LogFileCache: Scanning file cache for directory 'Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/Developers/Zak/Collections/' took 0.00s
+[2022.11.30-18.14.25:053][  0]LogFileCache: Scanning file cache for directory 'Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/Collections/' took 0.00s
+[2022.11.30-18.14.25:053][  0]LogOcInput: OculusInput pre-init called
+[2022.11.30-18.14.25:068][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.30-18.14.25:068][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.30-18.14.25:132][  0]LogEngine: Initializing Engine...
+[2022.11.30-18.14.25:134][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2022.11.30-18.14.25:134][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.30-18.14.25:135][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.30-18.14.25:255][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.30-18.14.25:264][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.30-18.14.25:279][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.30-18.14.25:284][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.30-18.14.25:284][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-18.14.25:284][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-18.14.25:284][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.30-18.14.25:284][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.30-18.14.25:304][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.30-18.14.25:304][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.30-18.14.25:369][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.11.30-18.14.25:372][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-18.14.25:375][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-18.14.25:375][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-18.14.25:376][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.30-18.14.25:376][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.30-18.14.25:376][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.30-18.14.25:377][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.30-18.14.25:377][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.30-18.14.25:377][  0]LogInit: FAudioDevice initialized.
+[2022.11.30-18.14.25:377][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.30-18.14.25:377][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.30-18.14.25:577][  0]LogDerivedDataCache: Saved boot cache 0.20s 77MB C:/Users/Zak/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.30-18.14.25:582][  0]LogInit: Texture streaming: Enabled
+[2022.11.30-18.14.25:598][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.11.30-18.14.25:603][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.30-18.14.25:603][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.30-18.14.25:604][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.30-18.14.25:639][  0]LogInit: Transaction tracking system initialized
+[2022.11.30-18.14.25:670][  0]BlueprintLog: New page: Editor Load
+[2022.11.30-18.14.25:760][  0]LocalizationService: Localization service is disabled
+[2022.11.30-18.14.25:789][  0]TimingProfiler: Initialize
+[2022.11.30-18.14.25:789][  0]TimingProfiler: OnSessionChanged
+[2022.11.30-18.14.25:789][  0]LoadingProfiler: Initialize
+[2022.11.30-18.14.25:789][  0]LoadingProfiler: OnSessionChanged
+[2022.11.30-18.14.25:789][  0]NetworkingProfiler: Initialize
+[2022.11.30-18.14.25:789][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.30-18.14.25:789][  0]MemoryProfiler: Initialize
+[2022.11.30-18.14.25:789][  0]MemoryProfiler: OnSessionChanged
+[2022.11.30-18.14.25:947][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.30-18.14.25:947][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.30-18.14.26:133][  0]LogFileCache: Scanning file cache for directory 'Z:/Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/' took 0.00s
+[2022.11.30-18.14.26:336][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.30-18.14.26:342][  0]SourceControl: Source control is disabled
+[2022.11.30-18.14.26:342][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.548
+[2022.11.30-18.14.26:342][  0]Cmd: MAP LOAD FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-18.14.26:343][  0]LightingResults: New page: Lighting Build
+[2022.11.30-18.14.26:344][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-18.14.26:344][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-18.14.26:344][  0]MapCheck: New page: Map Check
+[2022.11.30-18.14.26:344][  0]LightingResults: New page: Lighting Build
+[2022.11.30-18.14.26:352][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.30-18.14.26:744][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MannequinMapLayoutX'.
+[2022.11.30-18.14.26:745][  0]LogAIModule: Creating AISystem for world MannequinMapLayoutX
+[2022.11.30-18.14.26:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-18.14.26:772][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.30-18.14.26:773][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-18.14.26:773][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2022.11.30-18.14.26:773][  0]LogFileHelpers: Loading map 'MannequinMapLayoutX' took 0.431
+[2022.11.30-18.14.26:776][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.981
+[2022.11.30-18.14.26:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-18.14.26:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-18.14.26:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-18.14.26:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-18.14.27:039][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0146 seconds. Added 3601 classes and 859 folders.
+[2022.11.30-18.14.27:076][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.11.30-18.14.27:116][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.30-18.14.27:116][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:116][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.30-18.14.27:116][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.11.30-18.14.27:168][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.30-18.14.27:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.30-18.14.27:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.11.30-18.14.27:171][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.30-18.14.27:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.30-18.14.27:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.11.30-18.14.27:173][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.30-18.14.27:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.30-18.14.27:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.11.30-18.14.27:174][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.30-18.14.27:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.30-18.14.27:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.11.30-18.14.27:176][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.30-18.14.27:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.30-18.14.27:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.11.30-18.14.27:178][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.30-18.14.27:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.30-18.14.27:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.11.30-18.14.27:180][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.30-18.14.27:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.30-18.14.27:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.11.30-18.14.27:181][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.30-18.14.27:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.30-18.14.27:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.11.30-18.14.27:183][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.30-18.14.27:183][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:183][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.30-18.14.27:183][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.11.30-18.14.27:185][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.30-18.14.27:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.30-18.14.27:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.11.30-18.14.27:186][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.30-18.14.27:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.30-18.14.27:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.11.30-18.14.27:189][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.30-18.14.27:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.30-18.14.27:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.11.30-18.14.27:192][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.30-18.14.27:192][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:192][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.30-18.14.27:192][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.30-18.14.27:194][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.30-18.14.27:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.30-18.14.27:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.11.30-18.14.27:197][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.30-18.14.27:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.30-18.14.27:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.30-18.14.27:199][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.30-18.14.27:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.30-18.14.27:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.11.30-18.14.27:201][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.30-18.14.27:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.30-18.14.27:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.11.30-18.14.27:203][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.30-18.14.27:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.30-18.14.27:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.11.30-18.14.27:205][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.30-18.14.27:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.30-18.14.27:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.11.30-18.14.27:206][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.30-18.14.27:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.30-18.14.27:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.11.30-18.14.27:208][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.30-18.14.27:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.30-18.14.27:208][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.11.30-18.14.27:210][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.30-18.14.27:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.30-18.14.27:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.11.30-18.14.27:212][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.30-18.14.27:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.30-18.14.27:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.11.30-18.14.27:214][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.30-18.14.27:214][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:214][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.30-18.14.27:214][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.11.30-18.14.27:215][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.30-18.14.27:215][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.30-18.14.27:215][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.30-18.14.27:215][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.11.30-18.14.27:787][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.30-18.14.27:788][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.11.30-18.14.27:892][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.30-18.14.27:895][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.30-18.14.27:912][  0]LogSlate: Took 0.009344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.30-18.14.28:028][  0]LogRenderer: Reallocating scene render targets to support 1128x588 Format 10 NumSamples 1 (Frame:1).
+[2022.11.30-18.14.28:120][  0]LogSlate: Took 0.017991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.30-18.14.28:218][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.30-18.14.28:219][  0]LogLoad: (Engine Initialization) Total time: 9.42 seconds
+[2022.11.30-18.14.28:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.30-18.14.28:219][  0]LogInit: First time updating LLM stats...
+[2022.11.30-18.14.28:271][  0]LogAssetRegistry: Asset discovery search completed in 5.2374 seconds
+[2022.11.30-18.14.28:273][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.11.30-18.14.28:274][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.30-18.14.28:320][  1]LogRenderer: Reallocating scene render targets to support 1128x604 Format 10 NumSamples 1 (Frame:2).
+[2022.11.30-18.20.14:447][ 40]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.30-18.20.14:479][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.30-18.20.14:519][ 40]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX61D580B54F37D0462143BF811B228E51.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX.umap'
+[2022.11.30-18.20.14:554][ 40]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX_BuiltDataF9BECC1E4D14F655C28DFAB997A9D788.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX_BuiltData.uasset'
+[2022.11.30-18.20.14:565][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-18.20.14:566][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MannequinMapLayoutX_BuiltData.MannequinMapLayoutX_BuiltData
+[2022.11.30-18.20.14:566][ 40]LogContentValidation: Display: Validating World /Game/MannequinMapLayoutX.MannequinMapLayoutX
+[2022.11.30-18.20.17:424][363]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-18.20.17:569][363]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.30-18.37.58:364][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.30-18.37.58:365][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.006
+[2022.11.30-18.37.58:366][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-18.37.58:366][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-18.37.58:399][991]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto1E7FC67E44D2177437EA2FBADDF5DDDFF.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto1.uasset'
+[2022.11.30-18.37.58:401][991]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.11.30-18.48.49:958][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.30-18.48.49:959][986]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.005
+[2022.11.30-18.48.49:959][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-18.48.49:959][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-18.48.49:993][986]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto269535BE64E005E4CD491F68B44799932.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto2.uasset'
+[2022.11.30-18.48.49:995][986]LogFileHelpers: Auto-saving content packages took 0.036
+[2022.11.30-18.54.49:856][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-18.54.49:890][266]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree63DF0CE4422FB963545FBC83CCCC7528.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-18.54.49:908][266]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-18.54.49:908][266]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-18.56.36:763][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-18.56.36:797][724]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree34675C0A4D642E263795558F46F1411E.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-18.56.36:811][724]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-18.56.36:811][724]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-18.58.57:054][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-18.58.57:093][477]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeB180E6294CC08FD1BA66F6B66269A68E.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-18.58.57:104][477]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-18.58.57:104][477]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.06.55:603][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.06.55:640][ 35]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree9F19FACD4B77296E5A01859AD0951EAD.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.06.55:651][ 35]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.06.55:651][ 35]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.08.16:409][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.08.16:445][765]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree228FB61746D3140BC32C0C9E297026FE.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.08.16:457][765]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.08.16:457][765]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.13.37:085][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.30-19.13.37:086][365]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.006
+[2022.11.30-19.13.37:086][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-19.13.37:086][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-19.13.37:122][365]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto346909CFA444EC831E997099FEE579DE4.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto3.uasset'
+[2022.11.30-19.13.37:123][365]LogFileHelpers: Auto-saving content packages took 0.038
+[2022.11.30-19.13.40:845][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.13.40:884][460]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree9AB92E0B4B60E401840D21A0EEA1369A.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.13.40:898][460]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.13.40:898][460]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.16.02:757][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.16.02:794][  2]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeADF09D0A4C8D7230FA37C8B0FCF5D289.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.16.02:805][  2]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.16.02:805][  2]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.17.02:431][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.17.02:479][640]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeC8227A1847AE1721B7D3F89990CA111E.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.17.02:491][640]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.17.02:492][640]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.19.01:800][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.19.01:838][531]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeFB086627409C1E828EB5EE901A812D13.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.19.01:849][531]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.19.01:849][531]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.27.42:971][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.30-19.27.42:972][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.012
+[2022.11.30-19.27.42:973][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-19.27.42:973][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-19.27.43:011][462]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto408D2A3934C5A7917CDD890AA7421EE7B.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto4.uasset'
+[2022.11.30-19.27.43:013][462]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.11.30-19.37.43:680][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.30-19.37.43:681][935]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.006
+[2022.11.30-19.37.43:681][935]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-19.37.43:681][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-19.37.43:720][935]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto5E809802048D8100B92644187D378E981.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto5.uasset'
+[2022.11.30-19.37.43:722][935]LogFileHelpers: Auto-saving content packages took 0.041
+[2022.11.30-19.41.30:422][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.41.30:462][516]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree1F3C2DD04F85E59CE3FB22900161E1C9.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.41.30:477][516]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.41.30:477][516]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.41.34:526][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.30-19.41.34:562][958]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX2B0F93ED4A12FD364B0A7EAB93949EFA.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX.umap'
+[2022.11.30-19.41.34:591][958]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX_BuiltData5C60A1BF45D2187E75C1ACBF10C12AFB.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX_BuiltData.uasset'
+[2022.11.30-19.41.34:601][958]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-19.41.34:601][958]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MannequinMapLayoutX_BuiltData.MannequinMapLayoutX_BuiltData
+[2022.11.30-19.41.34:601][958]LogContentValidation: Display: Validating World /Game/MannequinMapLayoutX.MannequinMapLayoutX
+[2022.11.30-19.41.52:512][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.30-19.41.52:547][101]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX5EBAB1B9440BD0207DCE18A90BAF2E02.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX.umap'
+[2022.11.30-19.41.52:577][101]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX_BuiltData538449224F405EB2EDA2EC985212063B.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX_BuiltData.uasset'
+[2022.11.30-19.41.52:587][101]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-19.41.52:587][101]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MannequinMapLayoutX_BuiltData.MannequinMapLayoutX_BuiltData
+[2022.11.30-19.41.52:587][101]LogContentValidation: Display: Validating World /Game/MannequinMapLayoutX.MannequinMapLayoutX
+[2022.11.30-19.42.10:240][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.42.10:278][116]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree302C1B7E4628E1B7EA9571A8AC1ABE33.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.42.10:289][116]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.42.10:289][116]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.47.29:062][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.47.29:101][726]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeF156DEE3423776E44B6B99AAC2AAF45E.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.47.29:112][726]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.47.29:112][726]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.47.37:630][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.47.37:671][618]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree9442939D422A47681DBF19A06001ED87.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.47.37:687][618]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.47.37:687][618]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.52.09:484][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.52.09:525][761]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeAA84B57B4F66BE623B4FF7831EFD0CBB.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.52.09:535][761]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.52.09:535][761]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.56.50:098][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.56.50:137][444]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree59065DDC4065639F8C9DD2B9A9B7F75C.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.56.50:150][444]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.56.50:150][444]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-19.59.00:374][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-19.59.00:416][973]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree61030D1047BE0BD5A73B50B901F887FF.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-19.59.00:429][973]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-19.59.00:429][973]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.02.06:500][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.30-20.02.06:501][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.006
+[2022.11.30-20.02.06:501][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-20.02.06:501][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-20.02.06:541][101]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto6B440822E43C1C4C98679D7B5E4B9E559.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto6.uasset'
+[2022.11.30-20.02.06:542][101]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.11.30-20.08.21:993][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.08.22:033][912]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree89D784764114F4EB7A45D1BEFC5F232A.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.08.22:049][912]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.08.22:049][912]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.15.09:420][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.15.09:460][125]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree1BB0925041BA8BA2E14464B9830A54C3.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.15.09:475][125]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.15.09:475][125]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.15.43:439][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.15.43:487][543]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeCDF71A1C40C5838258DFB5A94F67D733.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.15.43:500][543]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.15.43:501][543]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.21.29:181][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.30-20.21.29:219][279]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutXB8E0415D4D393542AC41D088BC84B956.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX.umap'
+[2022.11.30-20.21.29:249][279]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX_BuiltDataE781581E4331F9B39D774F8BC193ADB3.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX_BuiltData.uasset'
+[2022.11.30-20.21.29:259][279]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-20.21.29:259][279]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MannequinMapLayoutX_BuiltData.MannequinMapLayoutX_BuiltData
+[2022.11.30-20.21.29:259][279]LogContentValidation: Display: Validating World /Game/MannequinMapLayoutX.MannequinMapLayoutX
+[2022.11.30-20.22.19:879][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.22.19:920][216]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree9DEC3F8A4AAEDF874A978794C39AB779.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.22.19:935][216]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.22.19:935][216]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.23.32:519][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.23.32:561][735]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree3F1C37794ECB7C1D2883F3986B46E2DF.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.23.32:576][735]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.23.32:576][735]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.31.29:373][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.30-20.31.29:374][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.006
+[2022.11.30-20.31.29:374][451]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-20.31.29:374][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-20.31.29:418][451]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto7323E383240B5B8F59978CFBD6450C37D.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto7.uasset'
+[2022.11.30-20.31.29:419][451]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.11.30-20.35.42:349][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.35.42:393][ 71]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeA39C2598428022533CCD69A36A24261C.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.35.42:403][ 71]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.35.42:403][ 71]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.37.47:858][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.37.47:906][294]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeB95E82164F9B3235C0F84CAB35919B2E.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.37.47:922][294]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.37.47:922][294]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.41.29:947][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.30-20.41.29:949][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MannequinMapLayoutX' took 0.006
+[2022.11.30-20.41.29:949][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SceneDialogue_Action_Tree] ([1] browsable assets)...
+[2022.11.30-20.41.29:949][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneDialogue_Action_Tree]
+[2022.11.30-20.41.29:998][ 75]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree_Auto8BF7E0FA7496D1B0985E1FFA8614CD17E.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/Autosaves/Game/SceneDialogue_Action_Tree_Auto8.uasset'
+[2022.11.30-20.41.29:999][ 75]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.11.30-20.42.27:958][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.42.28:005][268]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree183E509741A97F94C6CC3FAC7C4E557C.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.42.28:017][268]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.42.28:017][268]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.43.17:364][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.43.17:410][628]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree0D71BC9C4707FDD66A8E439A8632C07A.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.43.17:424][628]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.43.17:424][628]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-20.45.41:373][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-20.45.41:420][780]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeDAB172864F6C3C9D06ACD4B1C4F00C32.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-20.45.41:433][780]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-20.45.41:433][780]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-21.09.51:983][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-21.09.52:030][974]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeF36CDA6941B7B62FB7EBD4B99FA6AF38.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-21.09.52:044][974]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-21.09.52:045][974]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-21.12.01:891][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-21.12.01:943][440]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree7C6CDB044E353BA607BB34982153302F.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-21.12.01:955][440]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-21.12.01:955][440]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-21.12.53:745][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-21.12.53:796][299]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_TreeFC77D07E4E3DE86CB7F708A057096A95.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-21.12.53:809][299]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-21.12.53:809][299]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-21.14.32:100][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneDialogue_Action_Tree" FILE="../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset" SILENT=true
+[2022.11.30-21.14.32:151][555]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/SceneDialogue_Action_Tree8A298DEA4633866FF23F4299B060A4D3.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/SceneDialogue_Action_Tree.uasset'
+[2022.11.30-21.14.32:161][555]AssetCheck: New page: Asset Save: SceneDialogue_Action_Tree
+[2022.11.30-21.14.32:161][555]LogContentValidation: Display: Validating BehaviorTree /Game/SceneDialogue_Action_Tree.SceneDialogue_Action_Tree
+[2022.11.30-21.14.32:944][638]LogSlate: Window 'SceneDialogue_Action_Tree' being destroyed
+[2022.11.30-21.14.32:951][638]LogSlate: Window 'SceneDialogue_Action_Tree' being destroyed
+[2022.11.30-21.14.34:039][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.30-21.14.34:078][749]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX13E5307C49DBE6F0D02EA19CAAD1864C.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX.umap'
+[2022.11.30-21.14.34:109][749]LogSavePackage: Moving '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Saved/MannequinMapLayoutX_BuiltData959FA7F043DE8EF5AD307C8A0FC50A9A.tmp' to '../../../../../Git/Narrative_Shit_WOTS/West-of-the-strawman/StandingTextBoxTest/Content/MannequinMapLayoutX_BuiltData.uasset'
+[2022.11.30-21.14.34:122][749]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-21.14.34:122][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MannequinMapLayoutX_BuiltData.MannequinMapLayoutX_BuiltData
+[2022.11.30-21.14.34:122][749]LogContentValidation: Display: Validating World /Game/MannequinMapLayoutX.MannequinMapLayoutX
+[2022.11.30-21.14.35:242][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.30-21.14.35:281][876]LogSlate: Window 'StandingTextBoxTest - Unreal Editor' being destroyed
+[2022.11.30-21.14.35:394][877]Cmd: QUIT_EDITOR
+[2022.11.30-21.14.35:395][877]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.30-21.14.35:398][877]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.30-21.14.35:401][877]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.30-21.14.35:401][877]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.30-21.14.35:401][877]LogAudio: Display: Audio Device unregistered from world 'MannequinMapLayoutX'.
+[2022.11.30-21.14.35:401][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-21.14.35:403][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.30-21.14.35:446][877]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.30-21.14.35:446][877]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.30-21.14.35:454][877]LogExit: Preparing to exit.
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C7300] Windows
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C7200] Default__DeviceProfile
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185000] WindowsNoEditor
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C5100] WindowsServer
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186C00] WindowsClient
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C6D00] IOS
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185500] iPadAir
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C5600] iPadAir2
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A14C900] IPadPro
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A14CA00] iPadAir3
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C6800] iPadAir4
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A14F300] iPadMini2
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C5900] iPadMini3
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A14E000] iPadMini4
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C7700] iPadMini5
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185900] iPhone6
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137F00] iPodTouch6
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187300] iPhone7
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186800] iPodTouch7
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135400] iPhone5S
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185200] iPhone6Plus
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137E00] iPhone6S
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184500] iPhone6SPlus
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135900] iPhone7Plus
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187000] iPhoneSE
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136900] iPhone8
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186900] iPhone8Plus
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137500] iPhoneX
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185D00] iPhoneXS
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A134E00] iPhoneXSMax
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187100] iPhoneXR
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137000] iPhone11
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185100] iPhone11Pro
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136100] iPhone11ProMax
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184200] iPhoneSE2
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135F00] iPhone12Mini
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187F00] iPhone12
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135700] iPhone12Pro
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186D00] iPhone12ProMax
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135200] iPadPro105
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185400] iPadPro129
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137C00] iPadPro97
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184900] iPadPro2_129
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136C00] iPad5
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186A00] iPad6
+[2022.11.30-21.14.36:116][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A134500] iPad7
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185700] iPad8
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137200] iPadPro11
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187900] iPadPro2_11
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137600] iPadPro3_129
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187400] iPadPro4_129
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137800] AppleTV
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187800] AppleTV4K
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137100] TVOS
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186400] Mac
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135800] MacClient
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184100] MacNoEditor
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137700] MacServer
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184400] Linux
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A210E00] LinuxAArch64
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C6200] LinuxNoEditor
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A211800] LinuxAArch64NoEditor
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C5200] LinuxClient
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A211400] LinuxAArch64Client
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C5000] LinuxServer
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A211300] LinuxAArch64Server
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C4700] Android
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A211000] Android_Low
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C4200] Android_Mid
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A210A00] Android_High
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A1C4500] Android_Default
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185A00] Android_Adreno4xx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137400] Android_Adreno5xx_Low
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185600] Android_Adreno5xx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137900] Android_Adreno6xx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184E00] Android_Adreno6xx_Vulkan
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136D00] Android_Mali_T6xx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186700] Android_Mali_T7xx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135A00] Android_Mali_T8xx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187600] Android_Mali_G71
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A135C00] Android_Mali_G72
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187D00] Android_Mali_G72_Vulkan
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A134F00] Android_Mali_G76
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184300] Android_Mali_G76_Vulkan
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136500] Android_Mali_G77
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187B00] Android_Mali_G77_Vulkan
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136E00] Android_Vulkan_SM5
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A184700] Android_PowerVR_G6xxx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137D00] Android_PowerVR_GT7xxx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186E00] Android_PowerVR_GE8xxx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A134700] Android_PowerVR_GM9xxx
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A187700] Android_PowerVR_GM9xxx_Vulkan
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A134C00] Android_TegraK1
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A185E00] Android_Unknown_Vulkan
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A136700] Lumin
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A186300] Lumin_Desktop
+[2022.11.30-21.14.36:117][877]LogDeviceProfile: Device profile begin destroy: [0000022D2A137B00] HoloLens
+[2022.11.30-21.14.36:175][877]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.30-21.14.36:190][877]LogExit: Editor shut down
+[2022.11.30-21.14.36:192][877]LogExit: Transaction tracking system shut down
+[2022.11.30-21.14.36:443][877]LogExit: Object subsystem successfully closed.
+[2022.11.30-21.14.36:481][877]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.30-21.14.36:508][877]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.11.30-21.14.36:508][877]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.11.30-21.14.36:508][877]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.11.30-21.14.36:510][877]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (788)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (784)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (782)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (780)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (778)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module WebMMedia (776)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (774)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (772)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.11.30-21.14.36:511][877]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.11.30-21.14.36:512][877]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.11.30-21.14.37:559][877]MemoryProfiler: Shutdown
+[2022.11.30-21.14.37:559][877]NetworkingProfiler: Shutdown
+[2022.11.30-21.14.37:559][877]LoadingProfiler: Shutdown
+[2022.11.30-21.14.37:559][877]TimingProfiler: Shutdown
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.11.30-21.14.37:559][877]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.11.30-21.14.37:560][877]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.11.30-21.14.37:560][877]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.11.30-21.14.37:560][877]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.11.30-21.14.37:560][877]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.11.30-21.14.37:560][877]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.11.30-21.14.37:560][877]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.11.30-21.14.37:561][877]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.11.30-21.14.37:561][877]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.11.30-21.14.37:561][877]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.11.30-21.14.37:595][877]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.11.30-21.14.37:596][877]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.11.30-21.14.37:596][877]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.11.30-21.14.37:597][877]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.11.30-21.14.37:598][877]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.11.30-21.14.37:598][877]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.11.30-21.14.37:598][877]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.11.30-21.14.37:599][877]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.11.30-21.14.37:604][877]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (548)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module ScreenshotTools (546)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module SynthesisEditor (544)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module Synthesis (542)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (540)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (538)
+[2022.11.30-21.14.37:807][877]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (536)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GooglePAD (534)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module EditableMesh (532)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AssetTags (520)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module TemplateSequence (508)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MediaCompositing (506)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ImgMedia (504)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (502)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (500)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (498)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (496)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (494)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (492)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MotoSynth (490)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (488)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (487)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (484)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module MeshConversion (482)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module DynamicMesh (480)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (478)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometricObjects (476)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (474)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (472)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (470)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (468)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ChaosNiagara (466)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module FractureEditor (464)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (463)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (460)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module BackChannel (458)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AlembicImporter (452)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module AlembicLibrary (451)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCache (450)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (449)
+[2022.11.30-21.14.37:808][877]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (444)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (442)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (440)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module PluginBrowser (438)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (436)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (434)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (432)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module CurveEditorTools (430)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (428)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module CryptoKeys (426)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (424)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (422)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module UObjectPlugin (420)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (412)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (408)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module SourceControl (407)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (402)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2022.11.30-21.14.37:809][877]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (390)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module SoundFields (388)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module SignificanceManager (386)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (384)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (382)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (380)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (376)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (374)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (372)
+[2022.11.30-21.14.37:810][877]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2022.11.30-21.14.37:911][877]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module ActorSequence (366)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2022.11.30-21.14.38:012][877]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2022.11.30-21.14.38:012][877]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2022.11.30-21.14.38:012][877]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (338)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module Niagara (336)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module SignalProcessing (335)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module NiagaraEditor (333)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module NiagaraCore (330)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (324)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module DataValidation (322)
+[2022.11.30-21.14.38:013][877]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (320)
+[2022.11.30-21.14.38:014][877]LogModuleManager: Shutting down and abandoning module LevelEditor (319)
+[2022.11.30-21.14.38:016][877]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (318)
+[2022.11.30-21.14.38:016][877]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (316)
+[2022.11.30-21.14.38:016][877]LogModuleManager: Shutting down and abandoning module MainFrame (314)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module HotReload (313)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module TreeMap (303)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (300)
+[2022.11.30-21.14.38:017][877]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2022.11.30-21.14.38:018][877]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2022.11.30-21.14.38:018][877]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.11.30-21.14.38:018][877]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.11.30-21.14.38:018][877]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.11.30-21.14.38:018][877]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.11.30-21.14.38:019][877]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.11.30-21.14.38:020][877]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.11.30-21.14.38:021][877]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.11.30-21.14.38:021][877]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.11.30-21.14.38:021][877]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.11.30-21.14.38:021][877]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.11.30-21.14.38:021][877]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.11.30-21.14.38:024][877]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.11.30-21.14.38:025][877]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.11.30-21.14.38:033][877]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.11.30-21.14.38:033][877]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.11.30-21.14.38:033][877]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.11.30-21.14.38:033][877]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.11.30-21.14.38:033][877]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.11.30-21.14.38:046][877]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.11.30-21.14.38:051][877]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.11.30-21.14.38:071][877]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.11.30-21.14.38:071][877]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.11.30-21.14.38:071][877]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.11.30-21.14.38:071][877]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.11.30-21.14.38:072][877]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (88)
+[2022.11.30-21.14.38:072][877]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.11.30-21.14.38:074][877]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.11.30-21.14.38:074][877]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.11.30-21.14.38:109][877]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.11.30-21.14.38:109][877]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.11.30-21.14.38:109][877]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84D453F9-4B9C-2C69-950B-19ACF4E394E5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=94e5a53840f55b487bbcd38040a1374b%7Cc346dbc8392d4071b8023c08fbfaa7fa%7Cd568dc98-f8fe-40e6-91a4-ce064f26489d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.11.30-21.14.38:109][877]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.11.30-21.14.38:135][877]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.11.30-21.14.38:138][877]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.11.30-21.14.38:140][877]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.11.30-21.14.38:141][877]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.11.30-21.14.38:142][877]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.11.30-21.14.38:143][877]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.11.30-21.14.38:143][877]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.11.30-21.14.38:143][877]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.11.30-21.14.38:143][877]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.11.30-21.14.38:143][877]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.11.30-21.14.38:145][877]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.11.30-21.14.38:145][877]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.11.30-21.14.38:145][877]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.30-21.14.38:145][877]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.30-21.14.38:145][877]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.30-21.14.38:146][877]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.30-21.14.38:146][877]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.30-21.14.38:147][877]LogD3D11RHI: Shutdown
+[2022.11.30-21.14.38:147][877]LogD3D11RHI: CleanupD3DDevice
+[2022.11.30-21.14.38:170][877]LogExit: Exiting.
+[2022.11.30-21.14.38:185][877]Log file closed, 11/30/22 21:14:38
